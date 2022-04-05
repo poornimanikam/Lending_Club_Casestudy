@@ -33,6 +33,8 @@ The company wants to understand the driving factors (or driver variables) behi
 >We are having the data of past customers who got approval for loan and along with their loan status , either they paid the full loan amount with interest, currently paying or they didn’t pay the loan and charged off.
 >Our dataset have around 39717 customer’s past data with 111 different information of each for analysis.
 
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 
 ## Conclusions
 
@@ -72,6 +74,8 @@ At the end of Exploratory Data Analysis (EDA) part, we have identified the top m
 8. Debt-to-income
 
 These top 8 features will help the business to minimize the defaulters rate and this will increases the business financial growth by approving loan of good customers who repays the loan within time.
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
